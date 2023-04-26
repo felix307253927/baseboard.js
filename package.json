@@ -1,6 +1,6 @@
 {
   "name": "baseboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get computer baseboard information",
   "scripts": {
     "build": "vite build",
@@ -19,12 +19,12 @@
     "url": "https://github.com/felix307253927/baseboard.js/issues"
   },
   "homepage": "https://github.com/felix307253927/baseboard.js#readme",
-  "main": "./baseboar.umd.js",
-  "module": "./baseboar.es.js",
+  "main": "./lib/baseboard.umd.js",
+  "module": "./lib/baseboard.es.js",
   "exports": {
     ".": {
-      "import": "./baseboar.es.js",
-      "require": "./baseboar.umd.js"
+      "import": "./lib/baseboard.es.js",
+      "require": "./lib/baseboard.umd.js"
     }
   },
   "typesVersions": {
