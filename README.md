@@ -10,9 +10,9 @@ console.log(baseboard());
 
 // 输出主板信息
 // {
-//   manufacturer: 'ASUSTeK COMPUTER INC.',
-//   product: 'FA506II',
+//   manufacturer: 'xxx COMPUTER INC.',
+//   product: 'xxx',
 //   version: '1.0',
-//   serial: 'L313NRCX007930MB'
+//   serial: 'xxx'
 // }
 ```
